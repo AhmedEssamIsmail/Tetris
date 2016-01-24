@@ -1,0 +1,6 @@
+﻿  Tetris.cpp
+c:\users\ahmed\downloads\tetris\tetris\tetris.cpp(166): warning C4018: '<': signed/unsigned mismatch
+c:\users\ahmed\downloads\tetris\tetris\tetris.cpp(255): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Tetris-Main.cpp
+  Generating Code...
+  Tetris.vcxproj -> C:\Users\ahmed\Downloads\Tetris\Debug\Tetris.exe
